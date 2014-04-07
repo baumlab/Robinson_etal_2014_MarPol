@@ -1,7 +1,7 @@
-##############################################
-# The mathematical inevitability of evenness #
-##############################################
-# Nature Brief Communication, November 2013
+#########################################################################
+# The limitations of diversity metrics in direction marine conservation #
+#########################################################################
+# Marine Policy, April 2014
 # JPWR, ERW, LDW, DCC, JPS, JKB
 # R code for simulating evenness calculations over a range of abundances, species richnesses, and species abundance distributions (SADs)
 
